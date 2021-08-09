@@ -3,7 +3,7 @@ Understanding and Visualizing Data
 
 
 
-Part One – Draft a Data-Collection Plan
+Part one: Data-Collection Plan
 
 
 Step 1: Identify a decision that requires, or would be enhanced by, data analysis.
